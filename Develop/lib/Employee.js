@@ -20,15 +20,7 @@ class Employee {
     }
 }
 
-module.export = Employee
+module.exports = Employee
 
 
 
-
-//     * name
-//   * id
-//   * email
-//   * getName()
-//   * getId()
-//   * getEmail()
-//   * getRole() // Returns 'Employee'
